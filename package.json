@@ -1,6 +1,6 @@
 {
   "homepage": "http://Ismaelx1.github.io/pokemon",
-  "name": "poke_app",
+  "name": "pokemon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
